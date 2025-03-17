@@ -1,5 +1,7 @@
 Hey I am... Hans Meershoek
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 I'm a passionate Data Science graduate, always eager to learn and explore the fascinating world of data.
 
 ##### I am coding with the following tools.....

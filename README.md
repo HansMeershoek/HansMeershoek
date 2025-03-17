@@ -17,7 +17,7 @@ I'm a passionate Data Science graduate, always eager to learn and explore the fa
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HansMeershoek&theme=vue)
+
 
 
 
@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HansMeershoek&theme=vue)

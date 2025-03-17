@@ -1,8 +1,7 @@
 Hey I am... Hans Meershoek
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
 I'm a passionate Data Science graduate, always eager to learn and explore the fascinating world of data.
+
 
 ##### I am coding with the following tools.....
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,6 +25,8 @@ I'm a passionate Data Science graduate, always eager to learn and explore the fa
 
 
 ![](https://komarev.com/ghpvc/?username=HansMeershoek&color=orange)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 

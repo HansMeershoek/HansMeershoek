@@ -1,6 +1,6 @@
 Hey I am... Hans Meershoek
 
-I'm a passionate Data Science student, always eager to learn and explore the fascinating world of data.
+I'm a passionate Data Science graduate, always eager to learn and explore the fascinating world of data.
 
 ##### I am coding with the following tools.....
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
